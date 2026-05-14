@@ -40,7 +40,7 @@ raporlar/      Internal meeting notes
 ## Maintainer & Developer
 
 **Ozgur Yildiz** — KASA member & volunteer developer
-- GitHub: [@ozguryildiz54](https://github.com/ozguryildiz54)
+- GitHub: [@yldzozgur](https://github.com/yldzozgur)
 - E-mail: ozguryildiz0@outlook.com
 - Site: https://akademiyaciziri.com
 - Developer attribution: https://akademiyaciziri.com/humans.txt
